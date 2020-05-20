@@ -10,7 +10,7 @@ const msgs = {
   PREDICTED: {
     HIGH_PROB: ["Definitely a {} 😎", "It is a {} 😎"],
     MID_PROB: ["Looks like a {} 😏", "It should be a {} 😏"],
-    LOW_PROB: ["Is it a {} 🤔", "May be a {} 🤔", "I prediction a {} 🤔"],
+    LOW_PROB: ["Is it a {} 🤔", "May be a {} 🤔", "I guess a {} 🤔"],
   },
 };
 
