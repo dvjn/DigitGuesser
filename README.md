@@ -11,3 +11,7 @@ A demonstration of digit recognizer CNN.
 - Library: **Tensorflow 2 with Keras API**
 - Architecture: **CNN**
 - Dataset: **MNIST Handwritten Digits**
+
+## CNN Architecture
+
+![CNN Architecture](assets/images/model-architecture.svg)
