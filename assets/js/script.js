@@ -98,7 +98,7 @@ function setup() {
   });
 
   // Initialize model
-  tf.loadLayersModel("model/model.json").then((data) => {
+  tf.loadLayersModel("assets/model/model.json").then((data) => {
     model = data;
     model.predict(tf.zeros([1, 28, 28, 1]));
     msgBox.innerHTML = msgs.INITIAL;
