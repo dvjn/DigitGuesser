@@ -4,7 +4,7 @@ A demonstration of digit recognizer CNN.
 
 ## Demo
 
-[https://divykj.github.io/DigitGuesser/](https://divykj.github.io/DigitGuesser/)
+[https://dvjn.github.io/DigitGuesser/](https://divykj.github.io/DigitGuesser/)
 
 ## Implementation
 
